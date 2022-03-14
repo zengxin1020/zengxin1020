@@ -13,17 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="work.xzeng@gmail.com">Email</a>
-</p>
-
 -->
 
 ### Hi there, I'm [Xin Zeng (曾鑫)](https://github.com/zengxin1020)👋
 
-- 🔭 I’m received M.S. degree supervised by [Yang-Dong Ye](http://www5.zzu.edu.cn/mlis/) from [ZZU](http://www.zzu.edu.cn/) in 2020.
+- 🔭 I received M.S. degree supervised by [Yang-Dong Ye](http://www5.zzu.edu.cn/mlis/) from [ZZU](http://www.zzu.edu.cn/) in 2020.
 - 🤔 My research interests lie primaily in Deep Learning, Computer Vision and Crowd Counting.
 - 🤝🏻 Contact with me via [Email](work.xzeng@gmail.com).
 
