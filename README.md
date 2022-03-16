@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zengxin1020&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zengxin1020&theme=vue"/></p>
 
 ### Platform&Tools 🛠️
 
