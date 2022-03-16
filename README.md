@@ -24,7 +24,18 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/zengxin1020">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zengxin1020&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zengxin1020&layout=compact&langs_count=8&theme=vue&count_private=true"/>
 </a>
 </p>
+
+# linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+# mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+ 
+# 手机设备
+[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
+ 
+# 程序语言
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+ 
 
