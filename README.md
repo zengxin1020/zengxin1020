@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/zengxin1020">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zengxin1020&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img width="90em" src="https://github-readme-stats.vercel.app/api?username=zengxin1020" />
-  <img width="90em" src="https://github-readme-streak-stats.herokuapp.com/?user=pzengxin1020" />
+  <img width="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pzengxin1020" />
 </a>
 </p>
 
