@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 My research interests lie primaily in Deep Learning, Computer Vision and Crowd Counting.
 - 🤝🏻 Contact with me via [Email](work.xzeng@gmail.com).
 
-## Github Analytics ⚙️
+### Github Analytics ⚙️
 
 <p align="center">
 <a href="https://github.com/zengxin1020">
@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-# Platform&Tools 🛠️
+### Platform&Tools 🛠️
 
+![Linux](https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -38,6 +40,12 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-F80000.svg?logo=oracle&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+
+
 
